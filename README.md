@@ -138,9 +138,3 @@ If you like this project:
 📢 Share it
 📬 Contact
 
-Feel free to connect for collaborations or opportunities!
-
-
----
-
-# 🔥 Quick Tip (Don’t skip
