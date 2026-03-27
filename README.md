@@ -143,10 +143,4 @@ Feel free to connect for collaborations or opportunities!
 
 ---
 
-# 🔥 Quick Tip (Don’t skip this)
-
-After pasting:
-- Add **3 screenshots** (home, product, admin)
-- Upload them in repo → link like:
-```markdown
-![Home](./screenshots/home.png)
+# 🔥 Quick Tip (Don’t skip
